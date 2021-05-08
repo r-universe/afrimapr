@@ -23,3 +23,8 @@
 	url = https://github.com/afrimapr/africovid
 	shallow = true
 	registered = true
+[submodule "rgeoboundaries"]
+	path = rgeoboundaries
+	url = https://github.com/wmgeolab/rgeoboundaries
+	shallow = true
+	registered = false
