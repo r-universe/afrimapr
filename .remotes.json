@@ -12,6 +12,18 @@
     "from": "afrihealthsites"
   },
   {
+    "package": "afrilearndata",
+    "url": "https://github.com/afrimapr/afrilearndata",
+    "via": ["afrilearnr"],
+    "from": "afrilearnr"
+  },
+  {
+    "package": "fontawesome",
+    "url": "https://github.com/rstudio/fontawesome",
+    "via": ["afrilearnr"],
+    "from": "afrilearnr"
+  },
+  {
     "package": "rgeoboundaries",
     "url": "https://github.com/wmgeolab/rgeoboundaries",
     "via": ["afriadmin"],

@@ -28,6 +28,11 @@
 	url = https://github.com/afrimapr/africovid
 	shallow = true
 	registered = true
+[submodule "fontawesome"]
+	path = fontawesome
+	url = https://github.com/rstudio/fontawesome
+	shallow = true
+	registered = false
 [submodule "rgeoboundaries"]
 	path = rgeoboundaries
 	url = https://github.com/wmgeolab/rgeoboundaries
