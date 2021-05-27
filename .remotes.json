@@ -2,6 +2,12 @@
   {
     "package": "afriadmin",
     "url": "https://github.com/afrimapr/afriadmin",
+    "via": ["africovid"],
+    "from": "africovid"
+  },
+  {
+    "package": "afriadmin",
+    "url": "https://github.com/afrimapr/afriadmin",
     "via": ["afrihealthsites"],
     "from": "afrihealthsites"
   },
@@ -10,6 +16,12 @@
     "url": "https://github.com/wmgeolab/rgeoboundaries",
     "via": ["afriadmin"],
     "from": "afriadmin"
+  },
+  {
+    "package": "rgeoboundaries",
+    "url": "https://github.com/wmgeolab/rgeoboundaries",
+    "via": ["africovid", "afriadmin"],
+    "from": "africovid"
   },
   {
     "package": "rgeoboundaries",
