@@ -1,8 +1,20 @@
 [
   {
+    "package": "afriadmin",
+    "url": "https://github.com/afrimapr/afriadmin",
+    "via": ["afrihealthsites"],
+    "from": "afrihealthsites"
+  },
+  {
     "package": "rgeoboundaries",
     "url": "https://github.com/wmgeolab/rgeoboundaries",
     "via": ["afriadmin"],
     "from": "afriadmin"
+  },
+  {
+    "package": "rgeoboundaries",
+    "url": "https://github.com/wmgeolab/rgeoboundaries",
+    "via": ["afrihealthsites", "afriadmin"],
+    "from": "afrihealthsites"
   }
 ]
