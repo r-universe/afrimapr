@@ -1,0 +1,14 @@
+[
+  {
+    "package": "afriadmin"
+  },
+  {
+    "package": "afrilearndata"
+  },
+  {
+    "package": "afrihealthsites"
+  },
+  {
+    "package": "africovid"
+  }
+]

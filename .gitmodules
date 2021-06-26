@@ -1,5 +1,25 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/afrimapr/universe
 	shallow = true
 	branch = HEAD
+[submodule "afriadmin"]
+	path = afriadmin
+	url = https://github.com/afrimapr/afriadmin
+	shallow = true
+	registered = true
+[submodule "afrilearndata"]
+	path = afrilearndata
+	url = https://github.com/afrimapr/afrilearndata
+	shallow = true
+	registered = true
+[submodule "afrihealthsites"]
+	path = afrihealthsites
+	url = https://github.com/afrimapr/afrihealthsites
+	shallow = true
+	registered = true
+[submodule "africovid"]
+	path = africovid
+	url = https://github.com/afrimapr/africovid
+	shallow = true
+	registered = true
