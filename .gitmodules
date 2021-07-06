@@ -13,6 +13,11 @@
 	url = https://github.com/afrimapr/afrilearndata
 	shallow = true
 	registered = true
+[submodule "afrilearnr"]
+	path = afrilearnr
+	url = https://github.com/afrimapr/afrilearnr
+	shallow = true
+	registered = true
 [submodule "afrihealthsites"]
 	path = afrihealthsites
 	url = https://github.com/afrimapr/afrihealthsites
