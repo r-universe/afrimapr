@@ -1,40 +1,27 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/afrimapr/universe
-	shallow = true
 	branch = HEAD
 [submodule "afriadmin"]
 	path = afriadmin
 	url = https://github.com/afrimapr/afriadmin
-	shallow = true
-	registered = true
-[submodule "afrilearndata"]
-	path = afrilearndata
-	url = https://github.com/afrimapr/afrilearndata
-	shallow = true
-	registered = true
-[submodule "afrilearnr"]
-	path = afrilearnr
-	url = https://github.com/afrimapr/afrilearnr
-	shallow = true
-	registered = true
-[submodule "afrihealthsites"]
-	path = afrihealthsites
-	url = https://github.com/afrimapr/afrihealthsites
-	shallow = true
-	registered = true
 [submodule "africovid"]
 	path = africovid
 	url = https://github.com/afrimapr/africovid
-	shallow = true
-	registered = true
+[submodule "afrihealthsites"]
+	path = afrihealthsites
+	url = https://github.com/afrimapr/afrihealthsites
+[submodule "afrilearndata"]
+	path = afrilearndata
+	url = https://github.com/afrimapr/afrilearndata
+[submodule "afrilearnr"]
+	path = afrilearnr
+	url = https://github.com/afrimapr/afrilearnr
 [submodule "fontawesome"]
 	path = fontawesome
 	url = https://github.com/rstudio/fontawesome
-	shallow = true
 	registered = false
 [submodule "rgeoboundaries"]
 	path = rgeoboundaries
 	url = https://github.com/wmgeolab/rgeoboundaries
-	shallow = true
 	registered = false
