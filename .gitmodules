@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/afrimapr/universe
+	url = https://github.com/afrimapr/afrimapr.r-universe.dev
 	branch = HEAD
 [submodule "afriadmin"]
 	path = afriadmin
