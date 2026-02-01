@@ -17,11 +17,3 @@
 [submodule "afrilearnr"]
 	path = afrilearnr
 	url = https://github.com/afrimapr/afrilearnr
-[submodule "fontawesome"]
-	path = fontawesome
-	url = https://github.com/rstudio/fontawesome
-	registered = false
-[submodule "rgeoboundaries"]
-	path = rgeoboundaries
-	url = https://github.com/wmgeolab/rgeoboundaries
-	registered = false
